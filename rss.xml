@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Pagani gallery</title>
+        <link></link>
+        <description>Top models from Pagani Automobili</description>
+        <item>
+            <title>New Paganis</title>
+            <link></link>
+            <description>Visit our page to see new Pagani modles</description>
+        </item>
+    </channel>
+</rss>
